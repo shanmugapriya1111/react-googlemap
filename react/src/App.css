@@ -1,0 +1,59 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #22222257;
+  height: 50px;
+  padding: 11px;
+}
+
+.App-intro {
+  font-size: large;
+  margin-top: -15px;
+  color: black;
+  text-align: center;
+}
+
+.glyphicon-remove:before {
+    content: "\e014";
+    padding-left: 23px;
+}
+
+.glyphicon-plus:before {
+    content: "\002b";
+    padding-left: 10px;
+}
+
+.glyphicon-pencil:before {
+    content: "\270f";
+    padding-left: 23px;
+}
+
+
+.align-navbar {
+  padding-right:80%;
+}
+
+.navbar {
+  max-height: 25%;
+  width : 25%;
+  height: 600px;
+  overflow : auto;
+}
+
+.rowC {
+  display:flex; 
+  flex-direction:row;
+}
+
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}

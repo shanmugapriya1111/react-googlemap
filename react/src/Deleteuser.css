@@ -1,0 +1,17 @@
+ .deletebutton {
+ 	padding-top: 21px;
+    padding-bottom: 16px;
+ }
+
+./*panel {
+    margin-right: 900px !important;
+}*/
+.panel-total{
+	/*display: flex;*/
+    justify-content: center;
+    align-items: center;
+}
+
+.panelalign {
+	padding-right: 200px;
+}

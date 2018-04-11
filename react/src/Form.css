@@ -1,0 +1,21 @@
+/*.Form-header {
+	padding-left: 16px;
+	
+}*/
+/*.panel-body{
+	padding-bottom: 0px;
+
+}*/
+
+.buttonspace {
+	padding-left: 60%;
+    padding-top: 10px;
+}
+
+.popover-resize {
+	/*display: inline-table !important;*/
+	/*top: 50px !important;*/
+	left: 315px !important;
+	/*width:100px !important;*/
+}
+
